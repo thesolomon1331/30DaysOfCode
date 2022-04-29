@@ -1,4 +1,8 @@
-
+/*Java Program to sort the elements using Insertion sort technique.
+Insertion Sort: In this method the array will be divided into two parts i.e unsorted array and sorted array, and place it in its corresponding position in 
+ the sorted part, and shift the elements accordingly.
+ * Time ComplexityL O(N^2).
+*/
 public class SelectionSort
 {
 	/*public */static void Printarray(int arr[])
