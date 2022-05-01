@@ -1,8 +1,9 @@
 /*Java program to sort the array using "Insertion sort" technique
  * Insertion sort: Take an element from an unsorted array and place it in its corresponding position in 
- * the sorted part, and shift the elements accordingly.
+   the sorted part, and shift the elements accordingly.
  * Time ComplexityL O(N^2).
- * */
+  Day 2 of 30 days of code
+  */
 public class InsertionSort
 {
 	static void Printarray(int arr[])
