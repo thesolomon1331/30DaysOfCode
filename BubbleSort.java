@@ -1,6 +1,7 @@
 /*Java Program to sort the give array of elements using Bubble sort technique
  Bubble Sort: It is the simplest sorting algorithm, where current element is compared with its next element if value is greater then Swapped.
  * Time complexity of this algorithm is O(N^2)
+ Day 1 of 30days of code
  */
 public class BubbleSort
 {
