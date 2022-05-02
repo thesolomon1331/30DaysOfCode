@@ -1,3 +1,5 @@
+/* Java program to find the weather the given number is Armstrong number or not
+*/
 import java.util.Scanner;  
 import java.lang.Math;  
 public class AmstrongNumber 
