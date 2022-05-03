@@ -1,5 +1,6 @@
 /*Java program to find the element in an array using linear search technique
- * */
+ Day 5 of 30daysOfCode 
+ */
 public class LinearSearch 
 {  
 	public static int linearSearch(int[] arr, int key){    
