@@ -1,4 +1,5 @@
 /* Java program to find the weather the given number is Armstrong number or not
+Day 7 of 30 Days Of Code
 */
 import java.util.Scanner;  
 import java.lang.Math;  
