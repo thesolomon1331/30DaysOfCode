@@ -1,4 +1,6 @@
-	public class PrimeNumber {
+/* Java program to find weather the given number is prime number or not.
+*/
+public class PrimeNumber {
 
 		  public static void main(String[] args) {
 
